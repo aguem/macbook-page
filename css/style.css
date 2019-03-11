@@ -98,10 +98,6 @@ body {
   }
 }
 
-.overflow-hidden {
-  overflow: hidden;
-}
-
 .airbook {
   position: absolute;
   z-index: 4;
