@@ -526,6 +526,7 @@ div[data-component-list="TextAnimationComponent"] .js-show-badge {
 }
 
 .section.background-alt {
+    display : inline-block;
     background-color: #fafafa;
 }
 
